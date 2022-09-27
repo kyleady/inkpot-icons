@@ -1,0 +1,28 @@
+{
+  "title": "Ink Pot - Icons",
+  "description": "A module that holds icons for use in D&amp;D 4e, made with Machine Learning.",
+  "url": "https://github.com/kyleady/inkpot-icons",
+  "manifest": "https://github.com/kyleady/inkpot-icons/releases/latest/download/module.json",
+  "download": "https://github.com/kyleady/inkpot-icons/releases/latest/download/module.zip",
+  "version": "1.0.0",
+  "id": "inkpot-icons",
+  "authors": [
+    {
+      "name": "kyleady",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
